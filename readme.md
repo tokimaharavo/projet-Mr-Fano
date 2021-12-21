@@ -24,7 +24,6 @@ Dans cette demonstration il y a du:
 -  scope
 -  etc
 
-
 ## notification sur l'application
 
 l'application a le coté accueil qui est l'accueil que tout le monde peut acceder(route:"main"),
@@ -41,6 +40,6 @@ il y aussi le route "api/main/api" un api que j'ai impeu creer mais ça ne sert 
 
 merci à Mr Fano de m'avoir donner une chance de pouvoir montrer mon envie d'apprendre et d'evoluer dans le monde du developpement en esperant que vous me donnerez l'aupportuniter d'acquerir d'experience et pouvoir gagner de l'argent
 
-toute votre conseil et rectification sont le bienvenue ,etant donner que je suis encore un debutant
+toute votre conseil et rectification sont le bienvenue ,etant donner que je debute encore
 
 

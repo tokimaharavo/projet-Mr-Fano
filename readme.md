@@ -26,11 +26,10 @@ Dans cette demonstration il y a du:
 
 ## notification sur l'application
 
-l'application a le coté accueil qui est l'accueil que tout le monde peut acceder(route:"main"),
-il y a le coté admin que seul les admins authentifier peuvent y acceder(route:"admin/main)
-seul dans le coter admin qu'on peut faire du CRUD
+l'application a le coté accueil qui est l'accueil que tout le monde peut acceder(route:"main")
 
-la formulaire que j'ai utiliser n'est pas vraiment la methode plus efficace et moderne,mais sache que je sais l'utiliser mais j'ai ete impeu limiter en connection et que je n'ai pas pu telecharger le packet, mais je ferai bcp plus d'effort la prochaine fois
+il y a le coté admin que seul les admins authentifier peuvent y acceder(route:"admin/main)
+Seul dans le coter admin qu'on peut faire du CRUD
 
 il y a le route "main/getApi" qui utilise une methode d'appel d'api externe et qui renvoi les donnes au apiMain.blade.php,qui est une affichage juste pour vous montrer que je me suis documenter sur l'utilisation d'api sur laravel
 

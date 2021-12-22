@@ -39,6 +39,7 @@ pour lancer le projet il faut:
 
 -  mais pour la partie sans avoir besoin de bdd mais utilisant un api on ajoutera "/main/getApi" a notre adresse du serveur
 
+
 ## notification sur le projet
 
 l'application a le coté accueil qui est l'accueil que tout le monde peut acceder(route:"main")

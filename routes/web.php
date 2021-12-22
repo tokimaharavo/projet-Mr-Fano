@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 //application Main
-Route::get('main','MainController@index')->middleware('title');  //accueil avec un middleware tout simple nommer title
+Route::get('main','MainController@index')->name('main')->middleware('title');  //accueil avec un middleware tout simple nommer title
 Route::post('main','MainController@search')->name('search'); //gestion de recherche
 Route::get('main/about/{id}','MainController@about');  //info sur un produit
 

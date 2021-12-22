@@ -14,8 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
-//all action on the mainController
-//Route::resource('main','MainController');
 
 //application Main
 Route::get('main','MainController@index')->middleware('title');  //accueil avec un middleware tout simple nommer title

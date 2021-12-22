@@ -51,6 +51,12 @@ il y a le route "main/getApi" qui utilise une methode d'appel d'api externe et q
 
 il y aussi le route "api/main/api" un api que j'ai impeu creer mais ça ne sert a rien sur cette application juste pour la pratique
 
+## notes
+-  il faut importer le fichier "projet-Mr-Fano.sql" dans le bdd
+-  il faut creer un fichier ".env" 
+-  copier le contenu du fichier ".env.example" dans le fichier ".env" qui vient d'être creer
+-  configurer les parametres dans le fichier ".env"
+
 ## remerciement
 
 merci à Mr Fano de m'avoir donner une chance de pouvoir montrer mon envie d'apprendre et d'evoluer dans le monde du developpement en esperant que vous me donnerez l'aupportuniter d'acquerir d'experience et pouvoir gagner de l'argent

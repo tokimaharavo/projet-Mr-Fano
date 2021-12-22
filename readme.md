@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## A propos de l'application
+## A propos du projet
 
-Cette application est juste une demonstration que je me suis bien documenter sur laravel et que j'ai appris  les principes de laravel,mais sache  que je peut encore m'ameliorer et evoluer encore plus,et prêt a faire des efforts et des recherche pour accomplir la tâche que vous me demanderiez 
+Ce projet est juste une demonstration que je me suis bien documenter sur laravel et que j'ai appris  les principes de laravel,mais sache  que je peut encore m'ameliorer et evoluer encore plus,et prêt a faire des efforts et des recherche pour accomplir la tâche que vous me demanderiez 
 
 Dans cette demonstration il y a du:
 -  route
@@ -24,7 +24,22 @@ Dans cette demonstration il y a du:
 -  scope
 -  etc
 
-## notification sur l'application
+## instruction et installation
+
+pour lancer le projet il faut:
+-  clonner le projet du github
+-  entrer dans le projet el ouvrir un terminal
+-  lancer "php artisan serve"
+-  on prend l' adresse et l'ouvrir sur le navigateur et on arrivera sur l'accueil de laravel
+-  pour acceder a l'accueil de notre site,on ajoutera "/main" sur l'adresse precedent
+-  de là on peut entrer en mode admin en cliquant sur "login as admin"
+-  en entrant un mot de pass et un adresse mail
+-  pour s'enregistre en admin ,on peut clicker sur "register as admin" dans l'interface login
+-  de là on peut faire le CRUD
+
+-  mais pour la partie sans avoir besoin de bdd mais utilisant un api on ajoutera "/main/getApi" a notre adresse du serveur
+
+## notification sur le projet
 
 l'application a le coté accueil qui est l'accueil que tout le monde peut acceder(route:"main")
 
